@@ -61,3 +61,9 @@ The API will be available at http://127.0.0.1:5000/.
   npm start
   ```
 The React app will be available at http://localhost:3000/.
+
+## Frontend Usage
+
+### 1. Home Page
+The Home component (Home.js) provides a user interface for age selection and uses speech recognition for hands-free interaction. Users can either click on age range buttons or speak their age to navigate to the appropriate section.
+
