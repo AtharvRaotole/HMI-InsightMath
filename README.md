@@ -66,4 +66,8 @@ The React app will be available at http://localhost:3000/.
 
 ### 1. Home Page
 The Home component (Home.js) provides a user interface for age selection and uses speech recognition for hands-free interaction. Users can either click on age range buttons or speak their age to navigate to the appropriate section.
+<p align="center">
+  <img src="HOME PAGE.png" alt="HMI-InsightMath Home Screen" width="550" height="350"/>
+</p>
 
+Further, all the screens can be accessed similarly by clicking on the buttons provided; or even by voice commands once the ChatGPT token has been authenticated.
